@@ -1,0 +1,14 @@
+N:\SKS\Pool\T12\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\Das erste programm.GeneratedMSBuildEditorConfig.editorconfig
+N:\SKS\Pool\T12\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\Das erste programm.AssemblyInfoInputs.cache
+N:\SKS\Pool\T12\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\Das erste programm.AssemblyInfo.cs
+N:\SKS\Pool\T12\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\Das erste programm.csproj.CoreCompileInputs.cache
+N:\SKS\Pool\T12\Ricardo Pino\Das erste programm\Das erste programm\bin\Debug\net8.0\Das erste programm.exe
+N:\SKS\Pool\T12\Ricardo Pino\Das erste programm\Das erste programm\bin\Debug\net8.0\Das erste programm.deps.json
+N:\SKS\Pool\T12\Ricardo Pino\Das erste programm\Das erste programm\bin\Debug\net8.0\Das erste programm.runtimeconfig.json
+N:\SKS\Pool\T12\Ricardo Pino\Das erste programm\Das erste programm\bin\Debug\net8.0\Das erste programm.dll
+N:\SKS\Pool\T12\Ricardo Pino\Das erste programm\Das erste programm\bin\Debug\net8.0\Das erste programm.pdb
+N:\SKS\Pool\T12\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\Das erste programm.dll
+N:\SKS\Pool\T12\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\refint\Das erste programm.dll
+N:\SKS\Pool\T12\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\Das erste programm.pdb
+N:\SKS\Pool\T12\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\Das erste programm.genruntimeconfig.cache
+N:\SKS\Pool\T12\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\ref\Das erste programm.dll
