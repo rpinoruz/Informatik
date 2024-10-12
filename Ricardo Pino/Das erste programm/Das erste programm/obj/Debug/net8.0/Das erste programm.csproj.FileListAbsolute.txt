@@ -12,3 +12,18 @@ N:\SKS\Pool\T12\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net
 N:\SKS\Pool\T12\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\Das erste programm.pdb
 N:\SKS\Pool\T12\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\Das erste programm.genruntimeconfig.cache
 N:\SKS\Pool\T12\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\ref\Das erste programm.dll
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\Das erste programm\Das erste programm\bin\Debug\net8.0\Das erste programm.exe
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\Das erste programm\Das erste programm\bin\Debug\net8.0\Das erste programm.deps.json
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\Das erste programm\Das erste programm\bin\Debug\net8.0\Das erste programm.runtimeconfig.json
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\Das erste programm\Das erste programm\bin\Debug\net8.0\Das erste programm.dll
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\Das erste programm\Das erste programm\bin\Debug\net8.0\Das erste programm.pdb
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\Das erste programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\Das erste programm.AssemblyInfoInputs.cache
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\Das erste programm.AssemblyInfo.cs
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\Das erste programm.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\Das erste programm.sourcelink.json
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\Das erste programm.dll
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\refint\Das erste programm.dll
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\Das erste programm.pdb
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\Das erste programm.genruntimeconfig.cache
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\Das erste programm\Das erste programm\obj\Debug\net8.0\ref\Das erste programm.dll

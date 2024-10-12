@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "N:\\SKS\\Pool\\T12\\Ricardo Pino\\Das erste programm\\Das erste programm\\Das erste programm.csproj": {}
+    "C:\\Users\\Ricardo Pino\\Documents\\GitHub\\Informatik\\Ricardo Pino\\Das erste programm\\Das erste programm\\Das erste programm.csproj": {}
   },
   "projects": {
-    "N:\\SKS\\Pool\\T12\\Ricardo Pino\\Das erste programm\\Das erste programm\\Das erste programm.csproj": {
+    "C:\\Users\\Ricardo Pino\\Documents\\GitHub\\Informatik\\Ricardo Pino\\Das erste programm\\Das erste programm\\Das erste programm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "N:\\SKS\\Pool\\T12\\Ricardo Pino\\Das erste programm\\Das erste programm\\Das erste programm.csproj",
+        "projectUniqueName": "C:\\Users\\Ricardo Pino\\Documents\\GitHub\\Informatik\\Ricardo Pino\\Das erste programm\\Das erste programm\\Das erste programm.csproj",
         "projectName": "Das erste programm",
-        "projectPath": "N:\\SKS\\Pool\\T12\\Ricardo Pino\\Das erste programm\\Das erste programm\\Das erste programm.csproj",
-        "packagesPath": "C:\\Users\\dd06ekut\\.nuget\\packages\\",
-        "outputPath": "N:\\SKS\\Pool\\T12\\Ricardo Pino\\Das erste programm\\Das erste programm\\obj\\",
+        "projectPath": "C:\\Users\\Ricardo Pino\\Documents\\GitHub\\Informatik\\Ricardo Pino\\Das erste programm\\Das erste programm\\Das erste programm.csproj",
+        "packagesPath": "C:\\Users\\Ricardo Pino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ricardo Pino\\Documents\\GitHub\\Informatik\\Ricardo Pino\\Das erste programm\\Das erste programm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dd06ekut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ricardo Pino\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

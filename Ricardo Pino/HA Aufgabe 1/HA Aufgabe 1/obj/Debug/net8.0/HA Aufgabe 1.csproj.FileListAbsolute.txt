@@ -1,0 +1,15 @@
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\HA Aufgabe 1\HA Aufgabe 1\bin\Debug\net8.0\HA Aufgabe 1.exe
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\HA Aufgabe 1\HA Aufgabe 1\bin\Debug\net8.0\HA Aufgabe 1.deps.json
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\HA Aufgabe 1\HA Aufgabe 1\bin\Debug\net8.0\HA Aufgabe 1.runtimeconfig.json
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\HA Aufgabe 1\HA Aufgabe 1\bin\Debug\net8.0\HA Aufgabe 1.dll
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\HA Aufgabe 1\HA Aufgabe 1\bin\Debug\net8.0\HA Aufgabe 1.pdb
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\HA Aufgabe 1\HA Aufgabe 1\obj\Debug\net8.0\HA Aufgabe 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\HA Aufgabe 1\HA Aufgabe 1\obj\Debug\net8.0\HA Aufgabe 1.AssemblyInfoInputs.cache
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\HA Aufgabe 1\HA Aufgabe 1\obj\Debug\net8.0\HA Aufgabe 1.AssemblyInfo.cs
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\HA Aufgabe 1\HA Aufgabe 1\obj\Debug\net8.0\HA Aufgabe 1.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\HA Aufgabe 1\HA Aufgabe 1\obj\Debug\net8.0\HA Aufgabe 1.sourcelink.json
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\HA Aufgabe 1\HA Aufgabe 1\obj\Debug\net8.0\HA Aufgabe 1.dll
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\HA Aufgabe 1\HA Aufgabe 1\obj\Debug\net8.0\refint\HA Aufgabe 1.dll
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\HA Aufgabe 1\HA Aufgabe 1\obj\Debug\net8.0\HA Aufgabe 1.pdb
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\HA Aufgabe 1\HA Aufgabe 1\obj\Debug\net8.0\HA Aufgabe 1.genruntimeconfig.cache
+C:\Users\Ricardo Pino\Documents\GitHub\Informatik\Ricardo Pino\HA Aufgabe 1\HA Aufgabe 1\obj\Debug\net8.0\ref\HA Aufgabe 1.dll
